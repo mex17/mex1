@@ -1,0 +1,9 @@
+D:\studies\year3\stolyvo\cmder_2\Mex\mex1\mex1\assignment1\assignment1\bin\Debug\assignment1.exe.config
+D:\studies\year3\stolyvo\cmder_2\Mex\mex1\mex1\assignment1\assignment1\bin\Debug\assignment1.exe
+D:\studies\year3\stolyvo\cmder_2\Mex\mex1\mex1\assignment1\assignment1\bin\Debug\assignment1.pdb
+D:\studies\year3\stolyvo\cmder_2\Mex\mex1\mex1\assignment1\assignment1\obj\Debug\assignment1.csprojResolveAssemblyReference.cache
+D:\studies\year3\stolyvo\cmder_2\Mex\mex1\mex1\assignment1\assignment1\obj\Debug\assignment1.Form1.resources
+D:\studies\year3\stolyvo\cmder_2\Mex\mex1\mex1\assignment1\assignment1\obj\Debug\assignment1.Properties.Resources.resources
+D:\studies\year3\stolyvo\cmder_2\Mex\mex1\mex1\assignment1\assignment1\obj\Debug\assignment1.csproj.GenerateResource.Cache
+D:\studies\year3\stolyvo\cmder_2\Mex\mex1\mex1\assignment1\assignment1\obj\Debug\assignment1.exe
+D:\studies\year3\stolyvo\cmder_2\Mex\mex1\mex1\assignment1\assignment1\obj\Debug\assignment1.pdb
