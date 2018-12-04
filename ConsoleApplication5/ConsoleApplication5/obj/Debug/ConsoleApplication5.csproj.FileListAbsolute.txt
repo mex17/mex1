@@ -1,0 +1,6 @@
+D:\studies\year3\stolyvo\cmder_2\Mex\mex1\mex1\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+D:\studies\year3\stolyvo\cmder_2\Mex\mex1\mex1\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+D:\studies\year3\stolyvo\cmder_2\Mex\mex1\mex1\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+D:\studies\year3\stolyvo\cmder_2\Mex\mex1\mex1\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+D:\studies\year3\stolyvo\cmder_2\Mex\mex1\mex1\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+D:\studies\year3\stolyvo\cmder_2\Mex\mex1\mex1\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
