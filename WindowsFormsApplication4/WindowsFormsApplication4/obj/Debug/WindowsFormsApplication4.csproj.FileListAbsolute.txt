@@ -1,0 +1,10 @@
+D:\studies\year3\stolyvo\cmder_2\Mex\mex1\mex1\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+D:\studies\year3\stolyvo\cmder_2\Mex\mex1\mex1\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+D:\studies\year3\stolyvo\cmder_2\Mex\mex1\mex1\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+D:\studies\year3\stolyvo\cmder_2\Mex\mex1\mex1\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+D:\studies\year3\stolyvo\cmder_2\Mex\mex1\mex1\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+D:\studies\year3\stolyvo\cmder_2\Mex\mex1\mex1\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+D:\studies\year3\stolyvo\cmder_2\Mex\mex1\mex1\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+D:\studies\year3\stolyvo\cmder_2\Mex\mex1\mex1\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+D:\studies\year3\stolyvo\cmder_2\Mex\mex1\mex1\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.CALCULATOR.resources
+D:\studies\year3\stolyvo\cmder_2\Mex\mex1\mex1\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
