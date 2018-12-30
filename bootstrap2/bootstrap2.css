@@ -1,0 +1,67 @@
+h2{
+    text-align: center;
+}
+body{
+    background-color: rgb(237, 240, 241);
+    margin: 0 auto;
+    font-family: Arial,Helvetica,sans-serif;
+}
+#left-section img{
+    text-align: center;
+}
+
+
+
+  /* MEDIA QUERIES */
+  @media(min-width:769px){
+
+    
+    .aaaaa{
+        max-width: 1000px;
+        width: 80%;
+        margin: 0 auto;
+    }
+    .jumbotron{
+        
+        background-image: url(164.jpg);
+    }
+    .display-4{
+        text-align: center;
+    }
+  
+    .sub-section{
+        float: left;
+        width: 50%;
+        padding: 5px;
+        
+
+    }
+    .main-section{
+        width:35%;
+    }
+
+    .clearfix{
+        content: " ";
+        display: table;
+        clear: both;
+    }
+    /* text-align: center; */
+    .contact-form{
+        max-width: 150px;
+        margin:0 auto;
+        padding: 10px;
+    }
+    
+.contact-form label,
+.contact-form input{
+    /* background: #9e9e9e; */
+    display: block;
+    padding:10px;
+    margin-top: 0px;
+}
+footer{
+    background-color: rgb(222, 225, 226);
+    padding-top: 0%
+}
+
+  }
