@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(237, 240, 241);
+    margin: 0 auto;
+    font-family: Arial,Helvetica,sans-serif;
+}
+#left-section img{
+    text-align: center;
+}
+nav{
+    background-color: #4f45a7; 
+}
+
+
+  /* MEDIA QUERIES */
+  @media(min-width:769px){
+    .sub-section{
+        float: left;
+        width: 50%;
+        padding: 5px;
+        
+
+    }
+    .main-section{
+        width:35%;
+    }
+
+    .clearfix{
+        content: " ";
+        display: table;
+        clear: both;
+    }
+    footer{
+        background-color: rgb(222, 225, 226);
+        padding-top: 0%
+    }
+    
+  }
