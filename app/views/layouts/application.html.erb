@@ -1,0 +1,108 @@
+<!DOCTYPE html>   
+<html>   
+ <head>   
+      <title>jorah entertainment</title>  
+      <%= stylesheet_link_tag "application", media: "all", "data-turbolinks-track" => true %>   
+      <%= javascript_include_tag "application", "data-turbolinks-track" => true %>   
+      <%= csrf_meta_tags %> 
+
+      <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+.card-img-top
+{
+   height:250px;
+   width:300px;
+}
+
+
+nav li{
+    display: inline-block;
+    margin-right: 15px;
+    padding: 3px;
+
+}
+nav {
+    background-color: black;
+     
+    margin-left: 3px;
+    margin-right:3px;
+}
+
+    </style>  
+   </head>   
+      
+   <body>
+   <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+   <a class="navbar-brand">jorah entertainment</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">category</a>
+      </li>
+      <li class="nav-item category">
+        <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown</a>
+        <div class="dropdown-menu" aria-labelledby="dropdown01">
+          <a class="dropdown-item" href="#">Action</a>
+          <a class="dropdown-item" href="#">Another action</a>
+          <a class="dropdown-item" href="#">Something else here</a>
+        </div>
+      </li>
+    </ul>
+    <form class="form-inline my-2 my-lg-0">
+      <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+    </form>
+  </div>
+</nav>   
+      <div>   
+         <%= yield %>   
+      </div> 
+       <style>
+       body{
+    background-color: rgb(237, 240, 241);
+    margin: 0 auto;
+    font-family: Arial,Helvetica,sans-serif;
+}
+       </style>
+       <footer >
+                               <p class="text-center">&copy; jorah entertainment - 2018</p>
+                                <div class="text-right">
+                                       <a href="https://www.whatsapp.com/">
+                                                <img style="float:center" src="5.jpeg" height="70px" width="70px" alt="logo">
+                                              </a>
+                                              <a href="https://www.instagram.com/ishimwestalon">
+                                                        <img style="float:center" src="instagram.jpg" height="70px" width="70px" alt="logo">
+                                                      </a>
+                                                      <a href="https://www.facebook.com/ishimwe_stalone">
+                                                                <img style="float:center" src="images-1.png" height="70px" width="70px" alt="logo">
+                                                              </a>
+                         </div>
+                         <style>
+                         footer{
+    background-color: rgb(222, 225, 226);
+    padding-top: 0%
+     }
+                         </style>
+                               </footer> 
+   </body>   
+</html>  
